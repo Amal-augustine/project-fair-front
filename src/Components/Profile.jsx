@@ -3,7 +3,7 @@ import Collapse from 'react-bootstrap/Collapse';
 import server_url from '../../services/server_url'
 import { toast } from 'react-toastify';
 
-import pro from "/src/images/pro.png";
+import pro from "/src/images/Pro.png";
 import { updateprofileapi } from '../../services/allAPI';
 
 function Profile() {
